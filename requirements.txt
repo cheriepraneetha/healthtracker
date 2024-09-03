@@ -1,11 +1,5 @@
-streamlit (imported as st)
-pandas (imported as pd)
-numpy (imported as np)
-io (specifically the BytesIO class)
-reportlab.lib.pagesizes (specifically the letter pagesize)
-reportlab.lib (specifically the colors module)
-reportlab.lib.styles (specifically the getSampleStyleSheet function)
-reportlab.platypus (specifically SimpleDocTemplate, Paragraph, Table, TableStyle, and Image classes)
-matplotlib.pyplot (imported as plt)
-
-These libraries cover a range of functionalities including web app development (Streamlit), data manipulation (Pandas), numerical computing (NumPy), PDF generation (ReportLab), and data visualization (Matplotlib).
+streamlit
+pandas
+numpy
+reportlab
+matplotlib
