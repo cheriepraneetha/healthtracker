@@ -4,3 +4,6 @@ numpy
 reportlab
 matplotlib
 seaborn
+fpdf
+scikit-learn
+io
